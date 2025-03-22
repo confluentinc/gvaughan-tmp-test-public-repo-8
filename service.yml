@@ -1,0 +1,9 @@
+name: gvaughan-tmp-test-public-repo-8
+lang: unknown
+lang_version: unknown
+git:
+  enable: true
+codeowners:
+  enable: true
+renovatebot:
+  enable: false
